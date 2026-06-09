@@ -68,7 +68,7 @@ Working hardware prototype. Core walk gait, stand-up, web control, and calibrati
 
 ## License
 
-TODO: add a license (no license file is currently present in this repo).
+MIT — see the [LICENSE](LICENSE) file.
 
 ## Contact
 
